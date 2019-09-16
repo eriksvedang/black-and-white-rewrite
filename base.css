@@ -4,23 +4,30 @@ html {
 }
 
 h1 {
-    font-size: 2em;
+    font-size: 2.5em;
     margin-bottom: 0.5em;
     font-variant: small-caps;
     font-weight: bold;
 }
 
 h2 {
-    font-size: 1.6em;
+    font-size: 2.1em;
     margin-bottom: 0.5em;
-    /* font-variant: small-caps; */
+    font-variant: small-caps;
     font-weight: bold;
 }
 
 h3 {
-    font-size: 1.3em;
+    font-size: 1.6em;
     margin-bottom: 0.5em;
     font-weight: bold;
+}
+
+h4 {
+    font-size: 1.4em;
+    margin-bottom: 0.5em;
+    font-weight: bold;
+    font-style: italic;
 }
 
 p {
@@ -38,8 +45,15 @@ ul {
     font-size: 1.3em;
     line-height: 1.5em;
     margin-bottom: 1.0em;
+    margin-left: 2.0em;
     list-style: circle;
-    margin-left: 1.0em;
+}
+
+ol {
+    font-size: 1.3em;
+    line-height: 1.5em;
+    margin-bottom: 1.0em;
+    margin-left: 2.0em;
 }
 
 li {
