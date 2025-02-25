@@ -1,0 +1,1 @@
+Optional house rule – Artillery attacks using regular ammunition can destroy the bridge. The bridge has a Defence value of 4 for this purpose. Remove the token if hit, the hex is now treated as a stream.
